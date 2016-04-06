@@ -1,0 +1,76 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package robomodel;
+
+/**
+ *
+ * @author Luigi
+ */
+public class RoboModel {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
+    // i need more time on this one to make it work ,
+   // below theres something someone showed me but i dont know how to implemetn it//
+}
+public void robomodel( string name, int modelNumber, doubleprice ,
+ robotPart[] robotParts
+)
+
+private String name;
+Private int modelNumber;
+private int doubleprice;
+
+public RobotPart(){
+
+name=null;
+modelNumber = -1
+doubleprice = -1
+
+public static void main(String[] args) {
+  
+public double getcomponentCost()
+
+{
+
+ returncomponetCost;
+
+}
+
+
+public getnewCustomer()
+
+{
+ rutrunnewCustomer;
+
+}
+}
+-----------------------------------------------------------------
+package RoboModel;
+
+
+
+public class RobotModel {
+
+
+public class RobotModel [
+	private string name;
+	private int modeNumber=11;
+	private double price;
+
+public RobotModel()[
+]
+
+public RobotModel ( string n, double p ){
+this.name=n;
+this.modeNumber = this.modelNumber++;
+this.price=p
+}
+}
